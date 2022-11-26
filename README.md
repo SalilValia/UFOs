@@ -31,6 +31,10 @@ Another example. But first clear out the search categories to reset the the data
 
 
 
+
+![image](https://user-images.githubusercontent.com/111409181/204109679-92a1c6f9-ad14-41dd-bc88-ea4b29d70247.png)
+
+
 ## Summary
 One drawback I noticed is that you need to correctly type in the entries in the categories in order to filter the tables. For Example, if I had captialized the state 'ny' to 'NY' the table will not be filtered and will pull in no results. This is becuase the search criteria must match exactly how it is shown in the data. 
 
