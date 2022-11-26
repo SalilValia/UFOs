@@ -1,7 +1,7 @@
 # UFOs
  JavaScript module 
 
-## Summary 
+## Overview 
 The purpose of this assignment was to procide an analysis of UFO sightings around the world by allowing users to filter through the UFO sighting data through city, state, country, and shape. 
 
 ## Results 
