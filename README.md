@@ -42,4 +42,4 @@ Recommendations
 
 One recommendation is that I would suggest adding a search category for 'duration' to show how long each encounter/sighting took place. it seems to be more useful than the coutry category as it seems majority of the sightings happened in the U.S. 
 
-A second recommendation would be to insert and highlights back to which search functions we are currently using so the user does not get confused. I also reccomeend adding a map feature to show a visual image of sightings that occured connected with the date category to show if there was multiple cities that had a sighting at a certain time to determine if the cities were seeing the same sighting but at a differnt viewpoint/angle. 
+A second recommendation would be to insert and highlight the background of the search in which search category we are currently using so the user does not get confused. I also reccomeend adding a map feature to show a visual image of sightings that occured connected with the date category to show if there was multiple cities that had a sighting at a certain time to determine if the cities were seeing the same sighting but at a differnt viewpoint/angle. 
